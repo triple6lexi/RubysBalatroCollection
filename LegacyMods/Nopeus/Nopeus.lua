@@ -6,7 +6,7 @@
 --- MOD_DESCRIPTION: An extension of MoreSpeeds which includes more options, including a new speed which makes the event manager run as fast as it can.
 --- BADGE_COLOR: ff3c3c
 --- PREFIX: nopeus
---- VERSION: 2.2.3
+--- VERSION: 2.2.5
 --- LOADER_VERSION_GEQ: 1.0.0
 
 Nopeus = {
