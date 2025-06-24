@@ -1,6 +1,14 @@
-# JensBalatroCollection
-Collection of mods I've made for Balatro
+# Rubys Balatro Collection
+Collection of mods I've made for Balatro alongside Legacy Downloads for mods from Jens Balatro Collection
 
+## Rubys Mods
+- **[Engulf](https://github.com/lord-ruby/Engulf)** : Lets planets naturally appear with editions. Editioned cards apply their edition effects when leveling up/down hands. Effects stack when Multiple levels are levelled at once
+- **[Overflow](https://github.com/lord-ruby/Overflow)** : Consolidates identical consumables into a single card to save space. Amongside various other fixes and qol features.
+- **[Penumbra](https://github.com/lord-ruby/Penumbra)** : A mod for managing music from other mods as well as easy installation of custom music files.
+- **[Script](https://github.com/lord-ruby/Script)** : A mod for running custom scripts upon run start. Useful for modpacks.
+
+
+## Jens Balatro Collection (LegacyMods Folder)
 - **Aurinko** : Lets planets naturally appear with editions. Editioned cards apply their edition effects when leveling up/down hands.
 - **Incantation** : Consolidates identical consumables into a single card to save space.
 - **Loop** : Adds a voucher which unredeems certain vouchers to let them be re-redeemed again for stacking effects.
@@ -11,9 +19,9 @@ Collection of mods I've made for Balatro
 
 Make sure that **none** of the mods included in this repository are nested. They should all be directly installed into the Mods folder.
 
-- Correct example : `.../AppData/Roaming/Balatro/Mods/Aurinko/Aurinko.lua`
-- Incorrect example 1 : `.../AppData/Roaming/Balatro/Mods/Aurinko/Aurinko/Aurinko.lua`
-- Incorrect example 2 : `.../AppData/Roaming/Balatro/Mods/JensBalatroCollection-main/Aurinko/Aurinko.lua`
+- Correct example : `.../AppData/Roaming/Balatro/Mods/Engulf/Engulf.lua`
+- Incorrect example 1 : `.../AppData/Roaming/Balatro/Mods/Engulf/Engulf/Engulf.lua`
+- Incorrect example 2 : `.../AppData/Roaming/Balatro/Mods/RubysBalatroCollection-main/Engulf/Engulf.lua`
 
 ## Some other useful mods:
 - [Cartomancer](https://github.com/stupxd/Cartomancer)
