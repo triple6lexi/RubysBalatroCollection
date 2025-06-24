@@ -26,6 +26,5 @@ Make sure that **none** of the mods included in this repository are nested. They
 ## Some other useful mods:
 - [Cartomancer](https://github.com/stupxd/Cartomancer)
 - [DebugPlus](https://github.com/WilsontheWolf/DebugPlus)
-- [MoreJokerPacks](https://github.com/Samario1/MoreJokerPacks)
 - [Galdur](https://github.com/Eremel/Galdur)
 - [Handy](https://github.com/SleepyG11/HandyBalatro)
