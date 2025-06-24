@@ -21,8 +21,7 @@ Make sure that **none** of the mods included in this repository are nested. They
 
 - Correct example : `.../AppData/Roaming/Balatro/Mods/Engulf/Engulf.lua`
 - Incorrect example 1 : `.../AppData/Roaming/Balatro/Mods/Engulf/Engulf/Engulf.lua`
-- Incorrect example 2 : `.../AppData/Roaming/Balatro/Mods/RubysBalatroCollection-main/Engulf/Engulf.lua`
-- Incorrect example 3 : `.../AppData/Roaming/Balatro/Mods/RubysBalatroCollection-main/LegacyMods/Aurinko/Aurinko.lua`
+- Incorrect example 2 : `.../AppData/Roaming/Balatro/Mods/RubysBalatroCollection-main/LegacyMods/Aurinko/Aurinko.lua`
 
 ## Some other useful mods:
 - [Cartomancer](https://github.com/stupxd/Cartomancer)
